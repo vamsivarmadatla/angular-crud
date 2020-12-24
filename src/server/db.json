@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "vamsi varma",
+      "mobile": "7013035132",
+      "email": "dvamsivarma619@gmail.com",
+      "password": "1234567890",
+      "id": 2
+    },
+    {
+      "name": "abAAS",
+      "mobile": "788565",
+      "email": "AS",
+      "password": "ASQQQ",
+      "id": 3
+    },
+    {
+      "name": "dshdbas",
+      "mobile": "kc",
+      "email": "s",
+      "password": "ccns",
+      "id": 4
+    }
+  ]
+}
